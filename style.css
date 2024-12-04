@@ -1,0 +1,18 @@
+h1 {
+    color: crimson;
+}
+
+h2 {
+    color: darkorchid;
+}
+
+h3 {
+    color: darkorange;
+}
+
+h4 {
+    color: darkcyan;
+    border: 60px;
+    background-color: darkseagreen;
+    font-size: 20px;
+}
